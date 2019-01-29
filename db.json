@@ -3,15 +3,29 @@
      [{
       "name": "Бунинские луга",
       "price": "от 2,8 млр ₽",
-      "image": "https://github.com/PurpleRiver/fakeJsonServer/blob/master/buninskieLuga.jpg",
+      "image": "https://garantlc.ru/img/8164025_1920.jpg",
       "latitude": 55.543302,
       "longitude": 37.482502
     },
      {
-      "name": "Бунинские луга",
-      "price": "от 2,8 млр ₽",
-      "image": "https://garantlc.ru/img/8164025_1920.jpg",
-      "latitude": 55.543302,
-      "longitude": 37.482502
-    }] 
+      "name": "Оранж парк",
+      "price": "от 3,3 млр ₽",
+      "image": "https://www.kvartirazamkad.ru/imagecache/984f4f1d79d4c2486089660131f189e4.jpg",
+      "latitude": 55.671070,
+      "longitude": 37.856080
+    },
+     {
+      "name": "Мещерский лес",
+      "price": "от 3,8 млр ₽",
+      "image": "https://www.urbanus.ru/storage/public/jk_photos/1865/m1yboZmymuwqjaz1jYrSTEB6eJTuoggPI0BYrORi.jpeg",
+      "latitude": 55.660648,
+      "longitude": 37.411844
+    },
+     {
+      "name": "Ярославский",
+      "price": "от 2,5 млр ₽",
+      "image": "http://www.photoreal3d.ru/uploads/project/image/116/zhiloy-rayon-yaroslavskiy.jpg",
+      "latitude": 55.917409,
+      "longitude": 37.713702
+    },] 
 }
