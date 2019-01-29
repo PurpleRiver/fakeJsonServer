@@ -3,7 +3,7 @@
      [{
       "name": "Бунинские луга",
       "price": "от 2,8 млр ₽",
-      "image": "https://my-json-server.typicode.com/PurpleRiver/fakeJsonServer/buninskieLuga.jpg",
+      "image": "https://github.com/PurpleRiver/fakeJsonServer/blob/master/buninskieLuga.jpg",
       "latitude": 55.543302,
       "longitude": 37.482502
     },
