@@ -27,6 +27,20 @@
       "image": "https://cdn-p.cian.site/images/7/557/806/yaroslavskiy-16-y-mkr-jk-608755751-6.jpg",
       "latitude": 55.917409,
       "longitude": 37.713702
+    },
+     {
+      "name": "Западный порт",
+      "price": "от 6,8 млн ₽",
+      "image": "https://static.tildacdn.com/tild3861-3333-4365-a138-643661396133/ZapPort_Glr_00003.jpg",
+      "latitude": 55.751351,
+      "longitude": 37.516593
+    },
+      {
+      "name": "Измайловский 11",
+      "price": "от 4,5 млн ₽",
+      "image": "https://novostroy-a.akamaihd.net/regions/u/b/g/box_orig/5b3f5f45da77b.jpg",
+      "latitude": 55.793116,
+      "longitude": 37.772954
     }],
   
   "features":
